@@ -26,6 +26,7 @@ permalink: list
 | WiFi Pineapple Nano Tactical | $149.99 | [hakshop.com](https://hakshop.com/products/wifi-pineapple?variant=11303796101){:target="_blank"} |
 | WiFi Pineappling Book | $12.00 | [hakshop.com](https://hakshop.com/products/wifi-pineappling-book){:target="_blank"} |
 | Lenovo Active Pen | $33.79 | [amazon.com](https://www.amazon.com/Lenovo-Active-Capacity-Touchscreen-GX80K32882/dp/B01AZC3HF2){:target="_blank"} |
+| Raspberry Pi Camera V2 | $29.45 | [amazon.com](https://www.amazon.com/Raspberry-Pi-Camera-Module-Megapixel/dp/B01ER2SKFS/ref=sr_1_3?s=electronics&ie=UTF8&qid=1502342216&sr=1-3&keywords=raspberry+pi+camera){:target="_blank"} [adafruit.com](https://www.adafruit.com/product/3099){:target="_blank"} |
 | Google Daydream View (slate gray) | $59.99 | [verizon.com](https://www.verizonwireless.com/accessories/google-daydream-view-vr-headset/?utm_source=madebygoogle&utm_medium=vr){:target="_blank"}  [bestbuy.com](http://www.bestbuy.com/site/google-daydream-view-vr-headset-slate/5667796.p?skuId=5667796&utm_source=madebygoogle&utm_medium=vr){:target="_blank"} |
 | Digital Meat Thermometer | $??.?? | Any Store |
 | Magnetic Viewing Film | $8.76 | [amazon.com](https://www.amazon.com/CMS-Magnetics-Green-Magnetic-Viewing/dp/B000UV6ZPS/ref=sr_1_1?ie=UTF8&qid=1502312489&sr=8-1&keywords=magnetic+Viewing+Film){:target="_blank"} |
