@@ -29,6 +29,8 @@ permalink: list
 | Raspberry Pi Camera V2 | $29.45 | [amazon.com](https://www.amazon.com/Raspberry-Pi-Camera-Module-Megapixel/dp/B01ER2SKFS/ref=sr_1_3?s=electronics&ie=UTF8&qid=1502342216&sr=1-3&keywords=raspberry+pi+camera){:target="_blank"} [adafruit.com](https://www.adafruit.com/product/3099){:target="_blank"} |
 | Google Daydream View (slate gray) | $59.99 | [verizon.com](https://www.verizonwireless.com/accessories/google-daydream-view-vr-headset/?utm_source=madebygoogle&utm_medium=vr){:target="_blank"}  [bestbuy.com](http://www.bestbuy.com/site/google-daydream-view-vr-headset-slate/5667796.p?skuId=5667796&utm_source=madebygoogle&utm_medium=vr){:target="_blank"} |
 | Digital Meat Thermometer | $??.?? | Any Store |
+| 64 Bit Driver Kit | $24.95 | [ifixit.com](https://www.ifixit.com/Store/Tools/64-Bit-Driver-Kit/IF145-299-1){:target="_blank"} |
+| Beaglebone Blue | $79.94 | [arrow.com](https://www.arrow.com/en/products/bbblue/beagleboardorg){:target="_blank"} |
 | Magnetic Viewing Film | $8.76 | [amazon.com](https://www.amazon.com/CMS-Magnetics-Green-Magnetic-Viewing/dp/B000UV6ZPS/ref=sr_1_1?ie=UTF8&qid=1502312489&sr=8-1&keywords=magnetic+Viewing+Film){:target="_blank"} |
 | Google Pixel Screen Protector | $7.85 | [amazon.com](https://www.amazon.com/Protector-BIUZKO-Anti-Scratch-Tempered-Replacement/dp/B01N96YWC7/ref=sr_1_4?s=wireless&ie=UTF8&qid=1502312607&sr=1-4&keywords=google+pixel+screen+protector){:target="_blank"} |
 | Screen Cleaning Wipes (200) | $14.99 | [amazon.com](https://www.amazon.com/Zeiss-Clean-Screen-Wipes-count/dp/B01AH2K3C0/ref=sr_1_2?ie=UTF8&qid=1502313013&sr=8-2&keywords=screen+clean+wipes){:target="_blank"} |
