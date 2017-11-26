@@ -21,14 +21,13 @@ permalink: list
 
 2017 Birthday Items
 
-| Item | Price | URL |
-| --- | --- | --- |
+| Item | Details | Price | URL |
+| --- | --- | --- | --- |
+| Code Keyboard | Cherry MX Brown Switches, 87 key (104 key if 87 is out of stock) | $145.00 - $150.00 | [87 key: wasdkeyboards.com](http://www.wasdkeyboards.com/index.php/products/code-keyboard/code-87-key-mechanical-keyboard-2148.html){:target="_blank"} [104 key: wasdkeyboards.com](http://www.wasdkeyboards.com/index.php/products/code-keyboard/code-104-key-mechanical-keyboard-2450.html){:target="_blank"} |
+| Movie Pass | any month amount|$29.85 - $119.40 | [moviepass.com](https://www.moviepass.com/gifts){:target="_blank"} |
+| Darn Tough Socks | Size M | ~$20 | [darntough.com](https://darntough.com/){:target="_blank"} |
+| Deejo Knife | 27g, Black titanium, Astro tatoo (scroll down to select it), Rosewood handle | $59.90 | [deejo.fr](https://my.deejo.fr){:target="_blank"} |
+| French Rolling Pin | Similar to one linked, can get anywhere | ~$10 | [amazon.com](https://www.amazon.com/Ateco-20175-French-Rolling-20-Inch/dp/B000KESQ1G/ref=sr_1_5?s=kitchen&ie=UTF8&qid=1511496394&sr=1-5&keywords=french+rolling+pin){:target="_blank"} |
 | WiFi Pineapple Nano Tactical | $149.99 | [hakshop.com](https://hakshop.com/products/wifi-pineapple?variant=11303796101){:target="_blank"} |
 | WiFi Pineappling Book | $12.00 | [hakshop.com](https://hakshop.com/products/wifi-pineappling-book){:target="_blank"} |
-| Lenovo Active Pen | $33.79 | [amazon.com](https://www.amazon.com/Lenovo-Active-Capacity-Touchscreen-GX80K32882/dp/B01AZC3HF2){:target="_blank"} |
-| Raspberry Pi Camera V2 | $29.45 | [amazon.com](https://www.amazon.com/Raspberry-Pi-Camera-Module-Megapixel/dp/B01ER2SKFS/ref=sr_1_3?s=electronics&ie=UTF8&qid=1502342216&sr=1-3&keywords=raspberry+pi+camera){:target="_blank"} [adafruit.com](https://www.adafruit.com/product/3099){:target="_blank"} |
-| Google Daydream View (slate gray) | $59.99 | [verizon.com](https://www.verizonwireless.com/accessories/google-daydream-view-vr-headset/?utm_source=madebygoogle&utm_medium=vr){:target="_blank"}  [bestbuy.com](http://www.bestbuy.com/site/google-daydream-view-vr-headset-slate/5667796.p?skuId=5667796&utm_source=madebygoogle&utm_medium=vr){:target="_blank"} |
-| Digital Meat Thermometer | $??.?? | Any Store |
-| Magnetic Viewing Film | $8.76 | [amazon.com](https://www.amazon.com/CMS-Magnetics-Green-Magnetic-Viewing/dp/B000UV6ZPS/ref=sr_1_1?ie=UTF8&qid=1502312489&sr=8-1&keywords=magnetic+Viewing+Film){:target="_blank"} |
 | Google Pixel Screen Protector | $7.85 | [amazon.com](https://www.amazon.com/Protector-BIUZKO-Anti-Scratch-Tempered-Replacement/dp/B01N96YWC7/ref=sr_1_4?s=wireless&ie=UTF8&qid=1502312607&sr=1-4&keywords=google+pixel+screen+protector){:target="_blank"} |
-| Screen Cleaning Wipes (200) | $14.99 | [amazon.com](https://www.amazon.com/Zeiss-Clean-Screen-Wipes-count/dp/B01AH2K3C0/ref=sr_1_2?ie=UTF8&qid=1502313013&sr=8-2&keywords=screen+clean+wipes){:target="_blank"} |
