@@ -4,6 +4,7 @@ title: Projects
 ---
 Here is a listing of various projects that I work on.
 
+* [Open Source Robotic Joints](https://magicole.github.io/OSRJ)
 * robot arm controller
-* utah robotic mining project
+* Utah Student Robotics
 * ROS Code
