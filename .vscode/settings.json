@@ -1,0 +1,21 @@
+{
+    "cSpell.words": [
+        "ahbenr",
+        "baud",
+        "baudrate",
+        "gpioa",
+        "gpioaen",
+        "gpioc",
+        "gpiocen",
+        "hclk",
+        "mcu",
+        "mcus",
+        "microcontrollers",
+        "moder",
+        "nvic",
+        "ospeedr",
+        "otyper",
+        "pupdr",
+        "usart"
+    ]
+}

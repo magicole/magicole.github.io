@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: single
 title: ROS Development Server (WIP)
+categories: robotics
 ---
 
 This post details setting up a server to host Ubuntu instances so that people
