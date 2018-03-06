@@ -2,7 +2,7 @@
 layout: single
 title: STM32F0 Cheat Sheet
 excerpt: Common configurations for the STM32F0 MCU
-categories: microcontrollers
+categories: ['microcontrollers', 'programming']
 ---
 
 Below are some common things done while using STM32 MCUs. This should be used as a quick reference.
@@ -97,7 +97,7 @@ USART3->CR1 |= (1 << 3); //enable TX
 USART3->CR1 |= (1 << 2); //enable RX
 USART3->CR1 |= (1); //enable the entire USART3
 //write to the USART
-while((USART3->ISR & (1 << 7)) == 0){} //wait until the Transmit Data Register Empty flag is set
+while(!(USART3->ISR & (1 << 7))){} //wait until the Transmit Data Register Empty flag is set
 USART3->TDR = 'a';
 //read from the USART
 while(!(USART3->ISR & (1 << 5))){} //wait until the RX Not Empty Register is set
